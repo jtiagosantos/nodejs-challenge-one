@@ -14,7 +14,7 @@
 </p>
 
 <h4 align="center"> 
-  🚧 Transactions API 💲 Completed 🚀 🚧
+  🚧 Transactions API 📝 Completed 🚀 🚧
 </h4>
 
 <p align="center">
